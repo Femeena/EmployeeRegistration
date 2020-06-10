@@ -15,5 +15,5 @@ phases:
 artifacts:
   files:
     - target/EmployeeRegistration-1.0-SNAPSHOT.jar
-    - appspec.yml
+    
   discard-paths: yes
