@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java: jdk1.8.0_192
+      java: corretto8
   build:
     commands:
       - echo Build started on `date`
