@@ -15,5 +15,6 @@ phases:
 artifacts:
   files:
     - **/*.jar
+    - **/*.zip
     
   discard-paths: yes
