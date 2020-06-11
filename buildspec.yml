@@ -14,7 +14,7 @@ phases:
       - mvn clean package
 artifacts:
   files:
-    - **/*.jar
-    - **/*.zip
+    - '**/*.jar'
+    - '**/*.zip'
     
   discard-paths: yes
